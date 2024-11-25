@@ -1,0 +1,13 @@
+/**/*
+
+!/.gitignore
+
+!/README.md
+!/LICENSE
+!/requirements.txt
+
+!/brevitii.py
+!/config.py
+!/brevitii_pinger.py
+
+!/prompt_header.txt
